@@ -1,9 +1,8 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1超清" tvg-id="CCTV1超清" tvg-name="CCTV1超清",CCTV-1超清
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1 (1080p)
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13超清" tvg-id="CCTV13超清" tvg-name="CCTV13超清",CCTV-13超清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="News",CCTV-13
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1,江苏休闲体育
 http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" tvg-name="河南卫视",河南卫视
