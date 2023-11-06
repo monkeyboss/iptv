@@ -35,7 +35,7 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1,江苏休闲体育
 http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" tvg-name="河南卫视",河南卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" group-title="地方卫视"  tvg-name="河南卫视",河南卫视
 http://223.110.241.139:6610/gitv/live1/HENAN/HENAN/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10",CCTV10
 http://58.20.243.177:808/hls/10/index.m3u8
@@ -43,7 +43,7 @@ http://58.20.243.177:808/hls/10/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8",CCTV-8
 http://223.110.241.139:6610/gitv/live1/G_CCTV-8/G_CCTV-8/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视",浙江卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" group-title="地方卫视"  tvg-name="浙江卫视",浙江卫视
 http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/
 #EXTINF:-1,广西卫视[1920*1080.AAC.256kbps]
 http://58.20.202.43:808/hls/50/index.m3u8
@@ -53,11 +53,11 @@ http://58.20.202.43:808/hls/13/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰纪实" tvg-id="金鹰纪实" tvg-name="金鹰纪实",金鹰纪实
 http://58.20.202.43:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/延边卫视" tvg-id="延边卫视" tvg-name="延边卫视",延边卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/延边卫视" tvg-id="延边卫视" group-title="地方卫视" tvg-name="延边卫视",延边卫视
 http://223.110.241.139:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视",北京卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" group-title="地方卫视"  tvg-name="北京卫视",北京卫视
 http://223.110.241.139:6610/gitv/live1/G_BEIJING/G_BEIJING/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视",黑龙江卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" group-title="地方卫视"  tvg-name="黑龙江卫视",黑龙江卫视
 http://223.110.241.139:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/
 #EXTINF:-1,凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -83,15 +83,15 @@ http://223.110.241.139:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,湖南电视剧
 http://58.20.202.43:808/hls/21/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视",湖南卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" group-title="地方卫视"  tvg-name="湖南卫视",湖南卫视
 http://223.110.241.139:6610/gitv/live1/G_HUNAN/G_HUNAN/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/贵州卫视" tvg-id="贵州卫视" tvg-name="贵州卫视",贵州卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/贵州卫视" tvg-id="贵州卫视" group-title="地方卫视"  tvg-name="贵州卫视",贵州卫视
 http://58.20.202.43:808/hls/40/index.m3u8
 #EXTINF:-1,发现之旅
 http://223.110.241.139:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视",江苏卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" group-title="地方卫视"  tvg-name="江苏卫视",江苏卫视
 http://58.20.202.43:808/hls/42/index.m3u8
-#EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/mh1I0Gz.png" group-title="Undefined",江苏卫视 (1080p)
+#EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/mh1I0Gz.png" group-title="地方卫视",江苏卫视 (1080p)
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1,江苏公共
 http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
@@ -99,23 +99,23 @@ http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
 http://58.20.202.43:808/hls/15/index.m3u8
 #EXTINF:-1,爱晚[1920*1080.64kbps]
 http://58.20.243.177:808/hls/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视",黑龙江卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" group-title="地方卫视"  tvg-name="黑龙江卫视",黑龙江卫视
 http://58.20.202.43:808/hls/49/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1蓝光" tvg-id="CCTV1蓝光" tvg-name="CCTV1蓝光",CCTV-1蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视",东方卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" group-title="地方卫视"  tvg-name="东方卫视",东方卫视
 http://223.110.241.139:6610/gitv/live1/G_DONGFANG/G_DONGFANG/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4",CCTV4
 http://58.20.243.177:808/hls/4/index.m3u8
 #EXTINF:-1,湖南都市
 http://58.20.202.43:808/hls/20/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/吉林卫视" tvg-id="吉林卫视" tvg-name="吉林卫视",吉林卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/吉林卫视" tvg-id="吉林卫视" group-title="地方卫视"  tvg-name="吉林卫视",吉林卫视
 http://58.20.243.177:808/hls/55/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" tvg-name="辽宁卫视",辽宁卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" group-title="地方卫视"  tvg-name="辽宁卫视",辽宁卫视
 http://223.110.241.139:6610/gitv/live1/LNWS/LNWS/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4超清" tvg-id="CCTV4超清" tvg-name="CCTV4超清",CCTV-4超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/广西卫视" tvg-id="广西卫视" tvg-name="广西卫视",广西卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/广西卫视" tvg-id="广西卫视" group-title="地方卫视"  tvg-name="广西卫视",广西卫视
 http://223.110.241.139:6610/gitv/live1/GXWS/GXWS/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV11超清" tvg-id="CCTV11超清" tvg-name="CCTV11超清",CCTV-11超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
@@ -123,9 +123,9 @@ http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
 http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14",CCTV14
 http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" tvg-name="青海卫视",青海卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" group-title="地方卫视"  tvg-name="青海卫视",青海卫视
 http://223.110.241.139:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视",东方卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" group-title="地方卫视"  tvg-name="东方卫视",东方卫视
 http://58.20.202.43:808/hls/46/index.m3u8
 #EXTINF:-1,长沙影视频道
 http://58.20.243.177:808/hls/63/index.m3u8
@@ -135,7 +135,7 @@ http://58.20.243.177:808/hls/1/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
 #EXTINF:-1,南京科教
 http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/广东卫视" tvg-id="广东卫视" tvg-name="广东卫视",广东卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/广东卫视" tvg-id="广东卫视" group-title="地方卫视"  tvg-name="广东卫视",广东卫视
 http://223.110.241.139:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",CCTV-5
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD/
@@ -145,7 +145,7 @@ http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
 http://58.20.243.177:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通",金鹰卡通
 http://58.20.202.43:808/hls/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/宁夏卫视" tvg-id="宁夏卫视" tvg-name="宁夏卫视",宁夏卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/宁夏卫视" tvg-id="宁夏卫视" group-title="地方卫视"  tvg-name="宁夏卫视",宁夏卫视
 http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9",CCTV9
 http://58.20.202.43:808/hls/10/index.m3u8
@@ -153,7 +153,7 @@ http://58.20.202.43:808/hls/10/index.m3u8
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1,厦门第一台
 http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东南卫视" tvg-id="东南卫视" tvg-name="东南卫视",东南卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东南卫视" tvg-id="东南卫视" group-title="地方卫视"  tvg-name="东南卫视",东南卫视
 http://223.110.241.139:6610/gitv/live1/DNWS/DNWS/
 #EXTINF:-1,NewTV精品综合
 http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
@@ -163,9 +163,9 @@ http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3蓝光" tvg-id="CCTV3蓝光" tvg-name="CCTV3蓝光",CCTV-3蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/甘肃卫视" tvg-id="甘肃卫视" tvg-name="甘肃卫视",甘肃卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/甘肃卫视" tvg-id="甘肃卫视" group-title="地方卫视"  tvg-name="甘肃卫视",甘肃卫视
 http://223.110.241.139:6610/gitv/live1/G_GANSU/G_GANSU/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/海南卫视" tvg-id="海南卫视" tvg-name="海南卫视",海南卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/海南卫视" tvg-id="海南卫视" group-title="地方卫视"  tvg-name="海南卫视",海南卫视
 http://58.20.202.43:808/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16",CCTV16
 http://58.20.202.43:808/hls/17/index.m3u8
@@ -173,11 +173,11 @@ http://58.20.202.43:808/hls/17/index.m3u8
 http://58.20.243.177:808/hls/14/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2",CCTV2
 http://58.20.243.177:808/hls/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/广东卫视" tvg-id="广东卫视" tvg-name="广东卫视",广东卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/广东卫视" tvg-id="广东卫视" group-title="地方卫视"  tvg-name="广东卫视",广东卫视
 http://58.20.202.43:808/hls/38/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15",CCTV-15 音乐
 http://ott.js.chinamobile.com/TVOD/3/224/3221227723/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视",浙江卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" group-title="地方卫视"  tvg-name="浙江卫视",浙江卫视
 http://58.20.202.43:808/hls/43/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5蓝光" tvg-id="CCTV5蓝光" tvg-name="CCTV5蓝光",CCTV-5蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
@@ -187,15 +187,15 @@ http://223.110.241.139:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/
 http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/
 #EXTINF:-1,NewTV黑莓动画
 http://111.40.196.9/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江西卫视" tvg-id="江西卫视" tvg-name="江西卫视",江西卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江西卫视" tvg-id="江西卫视" group-title="地方卫视"  tvg-name="江西卫视",江西卫视
 http://58.20.202.43:808/hls/54/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/深圳卫视" tvg-id="深圳卫视" tvg-name="深圳卫视",深圳卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/深圳卫视" tvg-id="深圳卫视" group-title="地方卫视"  tvg-name="深圳卫视",深圳卫视
 http://223.110.242.133:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
 #EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn" tvg-logo="https://i.imgur.com/mzqA5YX.png" group-title="Undefined",深圳卫视 (1080p)
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9",CCTV9
 http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/安徽卫视" tvg-id="安徽卫视" tvg-name="安徽卫视",安徽卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/安徽卫视" tvg-id="安徽卫视" group-title="地方卫视"  tvg-name="安徽卫视",安徽卫视
 http://223.110.241.139:6610/gitv/live1/AHWS/AHWS/
 #EXTINF:-1,湖南经视
 http://58.20.202.43:808/hls/27/index.m3u8
@@ -209,19 +209,19 @@ http://58.20.243.177:808/hls/3/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
 #EXTINF:-1,江苏综艺
 http://223.110.241.139:6610/gitv/live1/G_JSZY/G_JSZY/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/河北卫视" tvg-id="河北卫视" tvg-name="河北卫视",河北卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/河北卫视" tvg-id="河北卫视" group-title="地方卫视"  tvg-name="河北卫视",河北卫视
 http://58.20.202.43:808/hls/41/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视",江苏卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" group-title="地方卫视"  tvg-name="江苏卫视",江苏卫视
 http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/四川卫视" tvg-id="四川卫视" tvg-name="四川卫视",四川卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/四川卫视" tvg-id="四川卫视" group-title="地方卫视"  tvg-name="四川卫视",四川卫视
 http://58.20.202.43:808/hls/29/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3超清" tvg-id="CCTV3超清" tvg-name="CCTV3超清",CCTV-3超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/安徽卫视" tvg-id="安徽卫视" tvg-name="安徽卫视",安徽卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/安徽卫视" tvg-id="安徽卫视" group-title="地方卫视"  tvg-name="安徽卫视",安徽卫视
 http://58.20.202.43:808/hls/35/index.m3u8
 #EXTINF:-1,南方卫视（广东）
 http://223.110.241.139:6610/gitv/live1/G_NANFANG/G_NANFANG/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视",湖南卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" group-title="地方卫视"  tvg-name="湖南卫视",湖南卫视
 http://58.20.202.43:808/hls/28/index.m3u8
 #EXTINF:-1,浙江卫视超清
 http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
@@ -235,7 +235,7 @@ http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/
 http://223.110.241.139:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
 #EXTINF:-1,CRI NEWS Plus AM1008
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/甘肃卫视" tvg-id="甘肃卫视" tvg-name="甘肃卫视",甘肃卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/甘肃卫视" tvg-id="甘肃卫视" group-title="地方卫视"  tvg-name="甘肃卫视",甘肃卫视
 http://58.20.202.43:808/hls/34/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17",CCTV17
 http://58.20.243.177:808/hls/17/index.m3u8
@@ -243,7 +243,7 @@ http://58.20.243.177:808/hls/17/index.m3u8
 http://111.40.196.9/PLTV/88888888/224/3221225630/index.m3u8
 #EXTINF:-1,文艺之声
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视",江苏卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" group-title="地方卫视"  tvg-name="江苏卫视",江苏卫视
 http://223.110.241.139:6610/gitv/live1/JSWS-HD/JSWS-HD/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6蓝光" tvg-id="CCTV6蓝光" tvg-name="CCTV6蓝光",CCTV-6蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
@@ -251,11 +251,11 @@ http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
 http://39.134.19.244:6610/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16",CCTV16
 http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视",湖北卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" group-title="地方卫视" tvg-name="湖北卫视",湖北卫视
 http://223.110.241.139:6610/gitv/live1/G_HUBEI/G_HUBEI/
 #EXTINF:-1,CETV-4
 http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/内蒙古卫视" tvg-id="内蒙古卫视" tvg-name="内蒙古卫视",内蒙古卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/内蒙古卫视" tvg-id="内蒙古卫视" group-title="地方卫视" tvg-name="内蒙古卫视",内蒙古卫视
 http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV10超清" tvg-id="CCTV10超清" tvg-name="CCTV10超清",CCTV-10超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
@@ -273,21 +273,14 @@ http://58.20.202.43:808/hls/16/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3",CCTV-3
 http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",CCTV5+
-http://58.20.243.177:808/hls/16/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2蓝光" tvg-id="CCTV2蓝光" tvg-name="CCTV2蓝光",CCTV-2蓝光
-http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
-#EXTINF:-1,精彩综艺
-http://39.134.19.244:6610/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,江苏卫视超清
-http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/厦门卫视" tvg-id="厦门卫视" tvg-name="厦门卫视",厦门卫视
+
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/厦门卫视" tvg-id="厦门卫视" group-title="地方卫视" tvg-name="厦门卫视",厦门卫视
 http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
 #EXTINF:-1,英语资讯广播 China Plus Radio
 http://cnlive.cnr.cn/hls/yyzxgb.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/嘉佳卡通" tvg-id="嘉佳卡通" tvg-name="嘉佳卡通",嘉佳卡通
 http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/天津卫视" tvg-id="天津卫视" tvg-name="天津卫视",天津卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/天津卫视" tvg-id="天津卫视" group-title="地方卫视" tvg-name="天津卫视",天津卫视
 http://223.110.241.139:6610/gitv/live1/TJWS/TJWS/
 #EXTINF:-1,炫动卡通
 http://223.110.241.139:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
@@ -299,7 +292,7 @@ http://58.20.243.177:808/hls/8/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
 #EXTINF:-1,CRI NEWS Plus AM846
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视",北京卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" group-title="地方卫视" tvg-name="北京卫视",北京卫视
 http://58.20.202.43:808/hls/44/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV12超清" tvg-id="CCTV12超清" tvg-name="CCTV12超清",CCTV-12超清
 http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/
@@ -311,7 +304,7 @@ http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
 #EXTINF:-1,CETV-1
 http://223.110.241.139:6610/gitv/live1/G_CETV-1/G_CETV-1/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/河北卫视" tvg-id="河北卫视" tvg-name="河北卫视",河北卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/河北卫视" tvg-id="河北卫视" group-title="地方卫视" tvg-name="河北卫视",河北卫视
 http://223.110.241.139:6610/gitv/live1/G_HEBEI/G_HEBEI/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16",CCTV-16 奥林匹克
 http://223.110.242.133:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ
@@ -319,9 +312,9 @@ http://223.110.242.133:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ
 http://58.20.202.43:808/hls/51/index.m3u8
 #EXTINF:-1,中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/云南卫视" tvg-id="云南卫视" tvg-name="云南卫视",云南卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/云南卫视" tvg-id="云南卫视" group-title="地方卫视" tvg-name="云南卫视",云南卫视
 http://223.110.241.139:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视",湖南卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" group-title="地方卫视" tvg-name="湖南卫视",湖南卫视
 http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1,家庭理财
 http://223.110.241.139:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
@@ -341,21 +334,21 @@ http://223.110.241.139:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
 http://58.20.243.177:808/hls/11/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10",CCTV10
 http://58.20.202.43:808/hls/11/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" tvg-name="辽宁卫视",辽宁卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" group-title="地方卫视" tvg-name="辽宁卫视",辽宁卫视
 http://58.20.202.43:808/hls/36/index.m3u8
 #EXTINF:-1,湖南教育电视台
 http://58.20.202.43:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视",浙江卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" group-title="地方卫视" tvg-name="浙江卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13",CCTV-13 新闻
 http://223.110.242.134:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" tvg-name="河南卫视",河南卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" group-title="地方卫视" tvg-name="河南卫视",河南卫视
 http://58.20.202.43:808/hls/32/index.m3u8
 #EXTINF:-1,经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" tvg-name="重庆卫视",重庆卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" group-title="地方卫视" tvg-name="重庆卫视",重庆卫视
 http://58.20.202.43:808/hls/30/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视",湖北卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" group-title="地方卫视" tvg-name="湖北卫视",湖北卫视
 http://58.20.202.43:808/hls/39/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k",CCTV-4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
@@ -365,23 +358,23 @@ http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11",CCTV11
 http://58.20.202.43:808/hls/12/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/兵团卫视" tvg-id="兵团卫视" tvg-name="兵团卫视",兵团卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/兵团卫视" tvg-id="兵团卫视" group-title="地方卫视" tvg-name="兵团卫视",兵团卫视
 http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/西藏卫视" tvg-id="西藏卫视" tvg-name="西藏卫视",西藏卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/西藏卫视" tvg-id="西藏卫视" group-title="地方卫视" tvg-name="西藏卫视",西藏卫视
 http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新疆卫视" tvg-id="新疆卫视" tvg-name="新疆卫视",新疆卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新疆卫视" tvg-id="新疆卫视" group-title="地方卫视" tvg-name="新疆卫视",新疆卫视
 http://223.110.241.139:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
 #EXTINF:-1,CHC解压喜剧
 http://bp-caster.bestv.com.cn/570/1/video.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/山东卫视" tvg-id="山东卫视" tvg-name="山东卫视",山东卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/山东卫视" tvg-id="山东卫视" group-title="地方卫视" tvg-name="山东卫视",山东卫视
 http://223.110.241.139:6610/gitv/live1/SDWS/SDWS/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2",CCTV2
 http://58.20.202.43:808/hls/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/四川卫视" tvg-id="四川卫视" tvg-name="四川卫视",四川卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/四川卫视" tvg-id="四川卫视" group-title="地方卫视" tvg-name="四川卫视",四川卫视
 http://223.110.241.139:6610/gitv/live1/SCWS/SCWS/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6",CCTV6
 http://58.20.202.43:808/hls/7/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/康巴卫视" tvg-id="康巴卫视" tvg-name="康巴卫视",康巴卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/康巴卫视" tvg-id="康巴卫视" group-title="地方卫视" tvg-name="康巴卫视",康巴卫视
 http://223.110.241.139:6610/gitv/live1/G_KANGBA/G_KANGBA/
 #EXTINF:-1,MIGU·PP体育
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
@@ -403,15 +396,15 @@ http://58.20.202.43:808/hls/22/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_ANDUO/G_ANDUO/
 #EXTINF:-1,长沙政法频道
 http://58.20.243.177:808/hls/61/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/山西卫视" tvg-id="山西卫视" tvg-name="山西卫视",山西卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/山西卫视" tvg-id="山西卫视" group-title="地方卫视" tvg-name="山西卫视",山西卫视
 http://223.110.241.139:6610/gitv/live1/SXWS/SXWS/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",CCTV-1
 http://223.110.241.139:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" tvg-name="重庆卫视",重庆卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" group-title="地方卫视" tvg-name="重庆卫视",重庆卫视
 http://223.110.241.139:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
 #EXTINF:-1,弈坛春秋
 http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/深圳卫视" tvg-id="深圳卫视" tvg-name="深圳卫视",深圳卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/深圳卫视" tvg-id="深圳卫视" group-title="地方卫视" tvg-name="深圳卫视",深圳卫视
 http://223.110.241.139:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/
 #EXTINF:-1,北京卫视超清-8M
 http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
@@ -419,9 +412,9 @@ http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 http://223.110.241.139:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",CCTV5
 http://58.20.243.177:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/吉林卫视" tvg-id="吉林卫视" tvg-name="吉林卫视",吉林卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/吉林卫视" tvg-id="吉林卫视" group-title="地方卫视" tvg-name="吉林卫视",吉林卫视
 http://58.20.202.43:808/hls/33/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江西卫视" tvg-id="江西卫视" tvg-name="江西卫视",江西卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江西卫视" tvg-id="江西卫视" group-title="地方卫视" tvg-name="江西卫视",江西卫视
 http://223.110.241.139:6610/gitv/live1/JXWS/JXWS/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV14超清" tvg-id="CCTV14超清" tvg-name="CCTV14超清",CCTV-14超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
@@ -429,13 +422,13 @@ http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13",CCTV13
 http://58.20.243.177:808/hls/13/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" tvg-name="青海卫视",青海卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" group-title="地方卫视" tvg-name="青海卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",CCTV5
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" group-title="CCTV" tvg-name="CCTV5",CCTV5
 http://58.20.202.43:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东南卫视" tvg-id="东南卫视" tvg-name="东南卫视",东南卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东南卫视" tvg-id="东南卫视" group-title="地方卫视" tvg-name="东南卫视",东南卫视
 http://58.20.202.43:808/hls/37/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/吉林卫视" tvg-id="吉林卫视" tvg-name="吉林卫视",吉林卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/吉林卫视" tvg-id="吉林卫视" group-title="地方卫视" tvg-name="吉林卫视",吉林卫视
 http://223.110.241.139:6610/gitv/live1/G_JILIN/G_JILIN/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2",CCTV-2
 http://223.110.241.139:6610/gitv/live1/G_CCTV-2/G_CCTV-2/
@@ -455,7 +448,7 @@ http://223.110.241.139:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
 http://223.110.241.139:6610/gitv/live1/G_CETV-2/G_CETV-2/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通",金鹰卡通
 http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/陕西卫视" tvg-id="陕西卫视" tvg-name="陕西卫视",陕西卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/陕西卫视" tvg-id="陕西卫视" group-title="地方卫视" tvg-name="陕西卫视",陕西卫视
 http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15",CCTV15[1920*1080.192kbps]
 http://58.20.243.177:808/hls/15/index.m3u8
@@ -463,18 +456,17 @@ http://58.20.243.177:808/hls/15/index.m3u8
 http://58.20.202.43:808/hls/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/优漫卡通" tvg-id="优漫卡通" tvg-name="优漫卡通",优漫卡通
 http://223.110.241.139:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/贵州卫视" tvg-id="贵州卫视" tvg-name="贵州卫视",贵州卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/贵州卫视" tvg-id="贵州卫视" group-title="地方卫视" tvg-name="贵州卫视",贵州卫视
 http://223.110.241.139:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
 #EXTINF:-1,山东卫视超清
 http://223.110.241.139:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" tvg-name="重庆卫视",重庆卫视
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" group-title="地方卫视" tvg-name="重庆卫视",重庆卫视
 http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227729/index.m3u8
 #EXTINF:-1,陕西文化影视
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
 #EXTINF:-1,NewTV军旅剧场
 http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/深圳卫视" tvg-id="深圳卫视" tvg-name="深圳卫视",深圳卫视
-http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu8
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu9
